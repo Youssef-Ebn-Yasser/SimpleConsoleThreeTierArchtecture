@@ -1,0 +1,12 @@
+D:\New folder (2)\TreeTierArchtecture_project\bin\Debug\TreeTierArchtecture_project.exe.config
+D:\New folder (2)\TreeTierArchtecture_project\bin\Debug\TreeTierArchtecture_project.exe
+D:\New folder (2)\TreeTierArchtecture_project\bin\Debug\TreeTierArchtecture_project.pdb
+D:\New folder (2)\TreeTierArchtecture_project\obj\Debug\TreeTierArchtecture_project.csproj.AssemblyReference.cache
+D:\New folder (2)\TreeTierArchtecture_project\obj\Debug\TreeTierArchtecture_project.csproj.CoreCompileInputs.cache
+D:\New folder (2)\TreeTierArchtecture_project\obj\Debug\TreeTierArchtecture_project.exe
+D:\New folder (2)\TreeTierArchtecture_project\obj\Debug\TreeTierArchtecture_project.pdb
+D:\New folder (2)\TreeTierArchtecture_project\bin\Debug\businusslyar.dll
+D:\New folder (2)\TreeTierArchtecture_project\bin\Debug\businusslyar.pdb
+D:\New folder (2)\TreeTierArchtecture_project\obj\Debug\TreeTier.AEF33797.Up2Date
+D:\New folder (2)\TreeTierArchtecture_project\bin\Debug\datalyar.dll
+D:\New folder (2)\TreeTierArchtecture_project\bin\Debug\datalyar.pdb

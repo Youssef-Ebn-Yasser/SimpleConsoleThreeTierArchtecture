@@ -1,0 +1,9 @@
+D:\New folder (2)\businusslyar\bin\Debug\businusslyar.dll
+D:\New folder (2)\businusslyar\bin\Debug\businusslyar.pdb
+D:\New folder (2)\businusslyar\obj\Debug\businusslyar.csproj.AssemblyReference.cache
+D:\New folder (2)\businusslyar\obj\Debug\businusslyar.csproj.CoreCompileInputs.cache
+D:\New folder (2)\businusslyar\obj\Debug\businusslyar.dll
+D:\New folder (2)\businusslyar\obj\Debug\businusslyar.pdb
+D:\New folder (2)\businusslyar\bin\Debug\datalyar.dll
+D:\New folder (2)\businusslyar\bin\Debug\datalyar.pdb
+D:\New folder (2)\businusslyar\obj\Debug\businuss.0DA5D428.Up2Date
